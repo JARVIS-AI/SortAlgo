@@ -19,6 +19,16 @@ And so on.
 
 
 
+## macOS Release
+
+
+
+For macOS I make a pre build package (app) to run it without any other problem, be sure java is installed.
+
+Thanks
+
+
+
 ## CODERS
 
 **Amir Mohammad Safari Livari (Jarvis Mercer)**
