@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sort Algorithm Animation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sort_Algorithm_Animation_jar</output-path>
+    <root id="archive" name="Sort Algorithm Animation.jar">
+      <element id="module-output" name="Sort Algorithm Animation" />
+    </root>
+  </artifact>
+</component>
