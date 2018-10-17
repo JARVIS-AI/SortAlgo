@@ -17,13 +17,16 @@ And so on.
 
 **JUST MAKE IT SURE, IF YOU COPY THE CODE PLEASE SAY THE REFRENCES ONLY AND IF ONLY AND ELSE ONLY :slightly_smiling_face:**
 
-### License
 
-The code is under GPL-2.0 GNU Public License
 
-### CODERS
-
-**Magik Girl nayuk**
+## CODERS
 
 **Amir Mohammad Safari Livari (Jarvis Mercer)**
 
+**Magik Girl nayuk**
+
+
+
+## License
+
+The code is under GPL-2.0 GNU Public License
